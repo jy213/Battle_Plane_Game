@@ -1,0 +1,1127 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              obj/default/hello_world_small.o (__divsi3)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              obj/default/hello_world_small.o (__mulsi3)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+                              obj/default/hello_world_small.o (asprintf)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o) (__sfvwrite_small_str_mbf)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o) (_impure_ptr)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+                              obj/default/hello_world_small.o (free)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o) (memmove)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+                              obj/default/hello_world_small.o (memset)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o) (_free_r)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o) (_malloc_r)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o) (_realloc_r)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o) (_sbrk_r)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o) (___svfprintf_internal_r)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o) (errno)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o) (memcpy)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o) (_malloc_usable_size_r)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o) (strlen)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+                              obj/default/hello_world_small.o (alt_getchar)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+                              obj/default/hello_world_small.o (alt_irq_register)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o) (alt_irq_active)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o (alt_load)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o (alt_main)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o) (__malloc_lock)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+                              obj/default/hello_world_small.o (alt_printf)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o) (alt_putchar)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+                              obj/default/hello_world_small.o (alt_putstr)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+                              c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o) (sbrk)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o) (alt_irq_init)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o) (altera_avalon_jtag_uart_read)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o) (altera_avalon_jtag_uart_write)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+                              obj/default/hello_world_small.o (alt_up_accelerometer_spi_open_dev)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o) (alt_fd_list)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o) (alt_errno)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o) (alt_find_dev)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o) (alt_irq_entry)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o) (alt_irq_handler)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                              C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o) (memcmp)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+errno               0x4               c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+led                 0x1               obj/default/hello_world_small.o
+level               0x4               obj/default/hello_world_small.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000010000 0x0000000000000020
+onchip_memory    0x0000000000010020 0x000000000000ffe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+LOAD obj/default/hello_world_small.o
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
+LOAD C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+END GROUP
+LOAD c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a
+                0x0000000000010000                __alt_mem_onchip_memory = 0x10000
+
+.entry          0x0000000000010000       0x20
+ *(.entry)
+ .entry         0x0000000000010000       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+                0x0000000000010000                __reset
+                0x000000000001000c                _exit
+
+.exceptions     0x0000000000010020      0x160
+                0x0000000000010020                PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x0000000000010020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000000010020        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000010020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000000010020        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000010020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000000010020       0x54 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000000010074       0x10 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000000010084        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000000010088        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000001008c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000001008c        0x8 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000000010094       0x14 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x00000000000100a8        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x00000000000100a8        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x00000000000100a8       0x54 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000000100fc       0x60 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000100fc                alt_irq_handler
+ .exceptions    0x000000000001015c       0x24 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000000000001015c                alt_instruction_exception_entry
+                0x0000000000010180                PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                0x0000000000010020                PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x0000000000010180     0x1e00
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000010180       0x3c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+                0x0000000000010180                _start
+ .text          0x00000000000101bc      0x604 obj/default/hello_world_small.o
+                0x00000000000101bc                sys_timer_isr
+                0x000000000001023c                led_write
+                0x000000000001024c                convert_read
+                0x0000000000010280                timer_init
+                0x00000000000102d4                moving_meanF
+                0x0000000000010678                print_text
+                0x00000000000106b0                generate_text
+                0x0000000000010750                read_chars
+                0x0000000000010798                getBin
+ .text.startup  0x00000000000107c0      0x248 obj/default/hello_world_small.o
+                0x00000000000107c0                main
+ .text          0x0000000000010a08      0x1b4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x0000000000010a08                __divsi3
+                0x0000000000010a88                __modsi3
+                0x0000000000010afc                __udivsi3
+                0x0000000000010b60                __umodsi3
+ .text          0x0000000000010bbc       0x28 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000000000010bbc                __mulsi3
+ .text          0x0000000000010be4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .text._asprintf_r
+                0x0000000000010be4       0x78 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+                0x0000000000010be4                _asprintf_r
+ .text.asprintf
+                0x0000000000010c5c       0x88 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+                0x0000000000010c5c                asprintf
+ .text          0x0000000000010ce4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .text.__sfvwrite_small_str_mbf
+                0x0000000000010ce4      0x10c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+                0x0000000000010ce4                __sfvwrite_small_str_mbf
+ .text          0x0000000000010df0        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .text          0x0000000000010df0        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .text.malloc   0x0000000000010df0       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+                0x0000000000010df0                malloc
+ .text.free     0x0000000000010e00       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+                0x0000000000010e00                free
+ .text          0x0000000000010e10        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .text.memmove  0x0000000000010e10       0x60 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+                0x0000000000010e10                memmove
+ .text          0x0000000000010e70        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .text.memset   0x0000000000010e70       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+                0x0000000000010e70                memset
+ .text          0x0000000000010e90        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000010e90      0x100 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+                0x0000000000010e90                _free_r
+ .text          0x0000000000010f90        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000010f90      0x164 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+                0x0000000000010f90                _malloc_r
+ .text          0x00000000000110f4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .text._realloc_r
+                0x00000000000110f4       0xb8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+                0x00000000000110f4                _realloc_r
+ .text          0x00000000000111ac        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x00000000000111ac       0x48 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+                0x00000000000111ac                _sbrk_r
+ .text          0x00000000000111f4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .text.print_repeat
+                0x00000000000111f4       0x6c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .text.___svfprintf_internal_r
+                0x0000000000011260      0x528 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+                0x0000000000011260                ___svfprintf_internal_r
+ .text.__vfprintf_internal_unused
+                0x0000000000011788       0x18 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+                0x0000000000011788                __vfprintf_internal_unused
+ .text          0x00000000000117a0        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x00000000000117a0        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .text.memcpy   0x00000000000117a0       0x28 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x00000000000117a0                memcpy
+ .text          0x00000000000117c8        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .text._malloc_usable_size_r
+                0x00000000000117c8       0x1c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+                0x00000000000117c8                _malloc_usable_size_r
+ .text          0x00000000000117e4        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x00000000000117e4       0x1c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x00000000000117e4                strlen
+ .text          0x0000000000011800       0x40 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+                0x0000000000011800                alt_getchar
+ .text          0x0000000000011840       0x90 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+                0x0000000000011840                alt_irq_register
+ .text          0x00000000000118d0        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x00000000000118d0       0xb4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+                0x00000000000118d0                alt_load
+ .text          0x0000000000011984       0x2c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+                0x0000000000011984                alt_main
+ .text          0x00000000000119b0        0x8 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+                0x00000000000119b0                __malloc_lock
+                0x00000000000119b4                __malloc_unlock
+ .text          0x00000000000119b8      0x140 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+                0x00000000000119b8                alt_printf
+ .text          0x0000000000011af8       0x4c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+                0x0000000000011af8                alt_putchar
+ .text          0x0000000000011b44       0x38 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+                0x0000000000011b44                alt_putstr
+ .text          0x0000000000011b7c       0x4c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+                0x0000000000011b7c                sbrk
+ .text          0x0000000000011bc8       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000011bc8                alt_irq_init
+                0x0000000000011be8                alt_sys_init
+ .text          0x0000000000011bf8       0x58 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x0000000000011bf8                altera_avalon_jtag_uart_read
+ .text          0x0000000000011c50       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000000000011c50                altera_avalon_jtag_uart_write
+ .text          0x0000000000011c80      0x16c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+                0x0000000000011c80                alt_up_accelerometer_spi_open_dev
+                0x0000000000011c88                alt_up_accelerometer_spi_read_address_register
+                0x0000000000011c9c                alt_up_accelerometer_spi_read
+                0x0000000000011cbc                alt_up_accelerometer_spi_write
+                0x0000000000011cd8                alt_up_accelerometer_spi_read_x_axis
+                0x0000000000011d34                alt_up_accelerometer_spi_read_y_axis
+                0x0000000000011d90                alt_up_accelerometer_spi_read_z_axis
+ .text          0x0000000000011dec        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000011dec                alt_dcache_flush_all
+ .text          0x0000000000011df0        0x8 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .text          0x0000000000011df8       0x6c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000000000011df8                alt_dev_llist_insert
+ .text          0x0000000000011e64        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .text          0x0000000000011e64       0x70 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+                0x0000000000011e64                alt_find_dev
+ .text          0x0000000000011ed4        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000011ed4                alt_icache_flush_all
+ .text          0x0000000000011ed8        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x0000000000011ed8        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x0000000000011ed8        0x8 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000011ed8                altera_nios2_gen2_irq_init
+ .text          0x0000000000011ee0        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000000000011ee0       0x70 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000000011ee0                alt_exception_cause_generated_bad_addr
+ .text          0x0000000000011f50        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ .text.memcmp   0x0000000000011f50       0x30 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x0000000000011f50                memcmp
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000000000011f80                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x0000000000011f80                . = ALIGN (0x4)
+
+.rodata         0x0000000000011f80       0xa4
+                0x0000000000011f80                PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x0000000000011f80                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x0000000000011f80       0x6b obj/default/hello_world_small.o
+ .rodata        0x0000000000011feb       0x2b obj/default/hello_world_small.o
+ .rodata.str1.4
+                0x0000000000012016       0x17 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ *fill*         0x0000000000012016        0x2 
+ .rodata.str1.4
+                0x0000000000012018        0xc C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+                                          0xa (size before relaxing)
+ *(.rodata1)
+                0x0000000000012024                . = ALIGN (0x4)
+                0x0000000000012024                PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                0x0000000000011f80                PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x0000000000012024      0x194 load address 0x00000000000121b8
+                0x0000000000012024                PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x0000000000012024                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000012024        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .data          0x0000000000012024        0x0 obj/default/hello_world_small.o
+ .data          0x0000000000012024        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000000000012024        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000000000012024        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .data          0x0000000000012024        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .data          0x0000000000012024        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000012024       0xe4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .data          0x0000000000012108        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .data          0x0000000000012108        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .data          0x0000000000012108       0x2c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000012134        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000000000012134        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000000012134        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .data          0x0000000000012134        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000000012134       0x58 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+                0x0000000000012134                alt_fd_list
+                0x0000000000012164                alt_dev_null
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x000000000001218c        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x000000000001218c        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                0x000000000001a18c                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata._global_impure_ptr
+                0x000000000001218c        0x4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x000000000001218c                _global_impure_ptr
+ .sdata._impure_ptr
+                0x0000000000012190        0x4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x0000000000012190                _impure_ptr
+ .sdata         0x0000000000012194        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000012194                alt_priority_mask
+ .sdata         0x0000000000012198        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .sdata         0x000000000001219c        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+                0x000000000001219c                jtag_uart
+ .sdata         0x00000000000121a0       0x14 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+                0x00000000000121a0                alt_max_fd
+                0x00000000000121a4                alt_dev_list
+                0x00000000000121ac                alt_fs_list
+ .sdata         0x00000000000121b4        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+                0x00000000000121b4                alt_errno
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x00000000000121b8                . = ALIGN (0x4)
+                0x00000000000121b8                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                0x00000000000121b8                PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                0x00000000000121b8                PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x000000000001234c      0x12c
+                0x000000000001234c                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x000000000001234c        0x1 obj/default/hello_world_small.o
+                0x000000000001234c                pwm
+ *fill*         0x000000000001234d        0x3 
+ .sbss          0x0000000000012350        0x8 obj/default/hello_world_small.o
+                0x0000000000012350                led
+                0x0000000000012354                level
+ .sbss.__malloc_sbrk_start
+                0x0000000000012358        0x4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+                0x0000000000012358                __malloc_sbrk_start
+ .sbss.__malloc_free_list
+                0x000000000001235c        0x4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+                0x000000000001235c                __malloc_free_list
+ .sbss          0x0000000000012360        0x4 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x0000000000012360                errno
+ .sbss          0x0000000000012364        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000012364                alt_irq_active
+ .sbss          0x0000000000012368        0xc C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+                0x0000000000012368                alt_envp
+                0x000000000001236c                alt_argv
+                0x0000000000012370                alt_argc
+ .sbss          0x0000000000012374        0x4 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000000000012374                alt_instruction_exception_handler
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .bss           0x0000000000012378        0x0 obj/default/hello_world_small.o
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x0000000000012378        0x0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x0000000000012378        0x0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+ *(COMMON)
+ COMMON         0x0000000000012378      0x100 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+                0x0000000000012378                alt_irq
+                0x0000000000012478                . = ALIGN (0x4)
+                0x0000000000012478                __bss_end = ABSOLUTE (.)
+
+.onchip_memory  0x0000000000012478        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory_start = ABSOLUTE (.))
+ *(.onchip_memory .onchip_memory. onchip_memory.*)
+                0x0000000000012478                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory_end = ABSOLUTE (.))
+                0x0000000000012478                _end = ABSOLUTE (.)
+                0x0000000000012478                end = ABSOLUTE (.)
+                0x0000000000012478                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_memory_load_addr = LOADADDR (.onchip_memory))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2c
+ *(.comment)
+ .comment       0x0000000000000000       0x2c obj/default/hello_world_small.o
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x000000000000002c       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x000000000000002c       0x2d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x5e0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000028       0x28 obj/default/hello_world_small.o
+ .debug_aranges
+                0x0000000000000050       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000070       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x0000000000000090       0x28 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .debug_aranges
+                0x00000000000000b8       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .debug_aranges
+                0x00000000000000d8       0x18 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000000000000f0       0x28 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000118       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .debug_aranges
+                0x0000000000000138       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .debug_aranges
+                0x0000000000000158       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x0000000000000178       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x0000000000000198       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .debug_aranges
+                0x00000000000001b8       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x00000000000001d8       0x30 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .debug_aranges
+                0x0000000000000208       0x18 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x0000000000000220       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000240       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .debug_aranges
+                0x0000000000000260       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x0000000000000280       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .debug_aranges
+                0x00000000000002a0       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .debug_aranges
+                0x00000000000002c0       0x18 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000318       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .debug_aranges
+                0x0000000000000338       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .debug_aranges
+                0x0000000000000358       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .debug_aranges
+                0x0000000000000378       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_aranges
+                0x0000000000000398       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .debug_aranges
+                0x00000000000003b8       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000000000003d8       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x00000000000003f8       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x0000000000000418       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_aranges
+                0x0000000000000438       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x0000000000000458       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x0000000000000478       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x0000000000000498       0x18 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x00000000000004b0       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x00000000000004d0       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000000000004f0       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x0000000000000520       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x0000000000000540       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x0000000000000560       0x38 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x0000000000000598       0x28 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_aranges
+                0x00000000000005c0       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x19013
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x22 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000022     0x1415 obj/default/hello_world_small.o
+ .debug_info    0x0000000000001437      0x368 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x000000000000179f       0xcb c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x000000000000186a      0xa78 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .debug_info    0x00000000000022e2      0x9e2 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .debug_info    0x0000000000002cc4      0x6e8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x00000000000033ac      0x6aa c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .debug_info    0x0000000000003a56      0xbe8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .debug_info    0x000000000000463e      0xbbf c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .debug_info    0x00000000000051fd      0x848 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .debug_info    0x0000000000005a45      0x946 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .debug_info    0x000000000000638b      0x871 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .debug_info    0x0000000000006bfc      0x6ee c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .debug_info    0x00000000000072ea     0x1412 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .debug_info    0x00000000000086fc      0x614 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x0000000000008d10      0xc00 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x0000000000009910      0x79a c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .debug_info    0x000000000000a0aa      0x649 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x000000000000a6f3      0xc32 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .debug_info    0x000000000000b325      0xbfc C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .debug_info    0x000000000000bf21       0x8b C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x000000000000bfac      0xaed C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .debug_info    0x000000000000ca99      0xeb0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .debug_info    0x000000000000d949      0x95e C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .debug_info    0x000000000000e2a7      0x170 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .debug_info    0x000000000000e417      0x9b3 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .debug_info    0x000000000000edca      0x9c3 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_info    0x000000000000f78d      0xa98 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .debug_info    0x0000000000010225      0xd3b C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000010f60      0xad9 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x0000000000011a39      0xaab C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00000000000124e4      0xd96 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_info    0x000000000001327a      0x934 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x0000000000013bae      0xe92 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x0000000000014a40      0xa8f C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00000000000154cf      0x972 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x0000000000015e41      0xc0c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x0000000000016a4d      0x934 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000000000017381       0x22 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x00000000000173a3      0xa66 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x0000000000017e09      0x955 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x000000000001875e       0x22 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x0000000000018780      0x20f C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x000000000001898f      0x684 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_abbrev   0x0000000000000000     0x5899
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000012      0x4cf obj/default/hello_world_small.o
+ .debug_abbrev  0x00000000000004e1      0x103 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00000000000005e4       0x7d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x0000000000000661      0x279 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .debug_abbrev  0x00000000000008da      0x260 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .debug_abbrev  0x0000000000000b3a      0x18d c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000cc7      0x1f2 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000000000000eb9      0x1b7 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .debug_abbrev  0x0000000000001070      0x1c3 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .debug_abbrev  0x0000000000001233      0x276 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x00000000000014a9      0x2d8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x0000000000001781      0x248 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .debug_abbrev  0x00000000000019c9      0x212 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000001bdb      0x34f c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .debug_abbrev  0x0000000000001f2a      0x186 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x00000000000020b0      0x1e3 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x0000000000002293      0x1e5 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .debug_abbrev  0x0000000000002478      0x1a8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x0000000000002620      0x23b C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .debug_abbrev  0x000000000000285b      0x325 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .debug_abbrev  0x0000000000002b80       0x44 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x0000000000002bc4      0x277 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x0000000000002e3b      0x252 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x000000000000308d      0x203 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .debug_abbrev  0x0000000000003290      0x10a C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .debug_abbrev  0x000000000000339a      0x24a C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .debug_abbrev  0x00000000000035e4      0x249 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_abbrev  0x000000000000382d      0x2ac C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .debug_abbrev  0x0000000000003ad9      0x2db C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x0000000000003db4      0x258 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x000000000000400c      0x251 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x000000000000425d      0x24a C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_abbrev  0x00000000000044a7      0x1e0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000004687      0x212 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x0000000000004899      0x283 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x0000000000004b1c      0x1df C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000000000004cfb      0x25c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x0000000000004f57      0x1e0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x0000000000005137       0x12 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x0000000000005149      0x283 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00000000000053cc      0x1e5 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00000000000055b1       0x12 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00000000000055c3      0x116 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x00000000000056d9      0x1c0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_line     0x0000000000000000     0x63c8
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x66 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000066      0x7d9 obj/default/hello_world_small.o
+ .debug_line    0x000000000000083f      0x2f9 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000000b38       0xb6 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x0000000000000bee      0x2d7 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .debug_line    0x0000000000000ec5      0x2d3 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .debug_line    0x0000000000001198      0x15c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x00000000000012f4      0x215 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .debug_line    0x0000000000001509      0x2a7 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .debug_line    0x00000000000017b0      0x27b c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .debug_line    0x0000000000001a2b      0x339 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .debug_line    0x0000000000001d64      0x37b c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .debug_line    0x00000000000020df      0x26b c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .debug_line    0x000000000000234a      0x223 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .debug_line    0x000000000000256d      0x7bd c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .debug_line    0x0000000000002d2a      0x1ce c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x0000000000002ef8      0x280 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x0000000000003178      0x20f c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .debug_line    0x0000000000003387      0x1fa c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000003581      0x1be C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .debug_line    0x000000000000373f      0x289 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .debug_line    0x00000000000039c8       0x50 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x0000000000003a18      0x25b C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .debug_line    0x0000000000003c73      0x309 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .debug_line    0x0000000000003f7c      0x121 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .debug_line    0x000000000000409d      0x1e5 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .debug_line    0x0000000000004282      0x152 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .debug_line    0x00000000000043d4      0x190 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_line    0x0000000000004564      0x1e6 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .debug_line    0x000000000000474a      0x275 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x00000000000049bf      0x28d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x0000000000004c4c      0x243 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000004e8f      0x302 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_line    0x0000000000005191      0x17f C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000005310      0x286 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x0000000000005596      0x219 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x00000000000057af      0x131 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00000000000058e0      0x217 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x0000000000005af7      0x17d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000005c74       0x6b C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x0000000000005cdf      0x202 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x0000000000005ee1      0x13a C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x000000000000601b       0xb3 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x00000000000060ce       0xee C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x00000000000061bc      0x20c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_frame    0x0000000000000000      0x8b0
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x13c obj/default/hello_world_small.o
+ .debug_frame   0x000000000000013c       0x50 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x000000000000018c       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x00000000000001ac       0x58 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .debug_frame   0x0000000000000204       0x4c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .debug_frame   0x0000000000000250       0x30 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000000280       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000000002a0       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .debug_frame   0x00000000000002c0       0x38 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .debug_frame   0x00000000000002f8       0x3c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000334       0x50 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .debug_frame   0x0000000000000384       0x30 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .debug_frame   0x00000000000003b4       0x90 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .debug_frame   0x0000000000000444       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x0000000000000464       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .debug_frame   0x0000000000000484       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000000004a4       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+ .debug_frame   0x00000000000004d4       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .debug_frame   0x00000000000004f4       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000524       0x2c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000550       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+ .debug_frame   0x0000000000000580       0x44 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .debug_frame   0x00000000000005c4       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .debug_frame   0x00000000000005f4       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_frame   0x0000000000000624       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .debug_frame   0x0000000000000644       0x3c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000680       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x00000000000006a0       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x00000000000006c0       0x80 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_frame   0x0000000000000740       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000760       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x0000000000000780       0x2c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x00000000000007ac       0x40 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000000000007ec       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x000000000000080c       0x34 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000000000000840       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x0000000000000860       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x0000000000000890       0x20 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_str      0x0000000000000000     0x2413
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0x58 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .debug_str     0x0000000000000058      0x6c6 obj/default/hello_world_small.o
+                                        0x7eb (size before relaxing)
+ .debug_str     0x000000000000071e      0x193 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                        0x1de (size before relaxing)
+ .debug_str     0x00000000000008b1       0x42 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                        0x19f (size before relaxing)
+ .debug_str     0x00000000000008f3      0x30b c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+                                        0x688 (size before relaxing)
+ .debug_str     0x0000000000000bfe       0x75 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+                                        0x669 (size before relaxing)
+ .debug_str     0x0000000000000c73      0x11e c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                                        0x528 (size before relaxing)
+ .debug_str     0x0000000000000d91       0xf3 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+                                        0x4f8 (size before relaxing)
+ .debug_str     0x0000000000000e84      0x353 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+                                        0x7fb (size before relaxing)
+ .debug_str     0x00000000000011d7       0x3f c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+                                        0x7e0 (size before relaxing)
+ .debug_str     0x0000000000001216      0x12b c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+                                        0x5f7 (size before relaxing)
+ .debug_str     0x0000000000001341       0x32 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+                                        0x60e (size before relaxing)
+ .debug_str     0x0000000000001373       0x34 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+                                        0x605 (size before relaxing)
+ .debug_str     0x00000000000013a7       0x51 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+                                        0x509 (size before relaxing)
+ .debug_str     0x00000000000013f8      0x1fe c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+                                        0xb56 (size before relaxing)
+ .debug_str     0x00000000000015f6       0x41 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                        0x4ce (size before relaxing)
+ .debug_str     0x0000000000001637       0x53 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                        0x7f4 (size before relaxing)
+ .debug_str     0x000000000000168a        0xf c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+                                        0x5d2 (size before relaxing)
+ .debug_str     0x0000000000001699       0x3f c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                        0x4d1 (size before relaxing)
+ .debug_str     0x00000000000016d8       0x8d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_getchar.o)
+                                        0x660 (size before relaxing)
+ .debug_str     0x0000000000001765       0xac C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+                                        0x5ec (size before relaxing)
+ .debug_str     0x0000000000001811       0x29 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_vars.o)
+                                        0x143 (size before relaxing)
+ .debug_str     0x000000000000183a      0x113 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+                                        0x625 (size before relaxing)
+ .debug_str     0x000000000000194d      0x17a C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_main.o)
+                                        0x7d7 (size before relaxing)
+ .debug_str     0x0000000000001ac7       0x1a C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_malloc_lock.o)
+                                        0x538 (size before relaxing)
+ .debug_str     0x0000000000001ae1       0x2d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+                                        0x10f (size before relaxing)
+ .debug_str     0x0000000000001b0e       0x34 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+                                        0x56a (size before relaxing)
+ .debug_str     0x0000000000001b42       0x15 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+                                        0x56f (size before relaxing)
+ .debug_str     0x0000000000001b57       0x61 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+                                        0x5ca (size before relaxing)
+ .debug_str     0x0000000000001bb8       0xe0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+                                        0x73d (size before relaxing)
+ .debug_str     0x0000000000001c98       0x32 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                        0x633 (size before relaxing)
+ .debug_str     0x0000000000001cca       0x2c C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x629 (size before relaxing)
+ .debug_str     0x0000000000001cf6       0xd9 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+                                        0x767 (size before relaxing)
+ .debug_str     0x0000000000001dcf       0x1f C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x53e (size before relaxing)
+ .debug_str     0x0000000000001dee       0x32 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev.o)
+                                        0x79c (size before relaxing)
+ .debug_str     0x0000000000001e20       0x48 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+                                        0x5c2 (size before relaxing)
+ .debug_str     0x0000000000001e68       0x14 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_errno.o)
+                                        0x53b (size before relaxing)
+ .debug_str     0x0000000000001e7c       0x1e C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+                                        0x5fc (size before relaxing)
+ .debug_str     0x0000000000001e9a       0x1f C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x53e (size before relaxing)
+ .debug_str     0x0000000000001eb9       0x18 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+                                         0x61 (size before relaxing)
+ .debug_str     0x0000000000001ed1       0x3a C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+                                        0x58d (size before relaxing)
+ .debug_str     0x0000000000001f0b       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x552 (size before relaxing)
+ .debug_str     0x0000000000001f2b       0x1e C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+                                         0x67 (size before relaxing)
+ .debug_str     0x0000000000001f49      0x48b C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                        0x5a9 (size before relaxing)
+ .debug_str     0x00000000000023d4       0x3f c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+                                        0x4cb (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x2e93
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x467 obj/default/hello_world_small.o
+ .debug_loc     0x0000000000000467      0x5d0 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x0000000000000a37       0xa7 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loc     0x0000000000000ade      0x152 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .debug_loc     0x0000000000000c30      0x1ae c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .debug_loc     0x0000000000000dde       0x64 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .debug_loc     0x0000000000000e42      0x263 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .debug_loc     0x00000000000010a5       0xac c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .debug_loc     0x0000000000001151      0x145 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .debug_loc     0x0000000000001296      0x291 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .debug_loc     0x0000000000001527      0x143 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .debug_loc     0x000000000000166a       0x6c c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .debug_loc     0x00000000000016d6      0xb67 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .debug_loc     0x000000000000223d      0x12a c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_loc     0x0000000000002367       0x90 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .debug_loc     0x00000000000023f7       0x44 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x000000000000243b      0x13e C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .debug_loc     0x0000000000002579       0x66 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .debug_loc     0x00000000000025df      0x22d C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .debug_loc     0x000000000000280c       0x32 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putchar.o)
+ .debug_loc     0x000000000000283e       0x3f C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_putstr.o)
+ .debug_loc     0x000000000000287d       0x8e C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sbrk.o)
+ .debug_loc     0x000000000000290b       0x25 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_loc     0x0000000000002930      0x130 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_loc     0x0000000000002a60       0x93 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_loc     0x0000000000002af3       0x6f C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_up_avalon_accelerometer_spi.o)
+ .debug_loc     0x0000000000002b62       0x8e C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_loc     0x0000000000002bf0       0xc2 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_find_dev.o)
+ .debug_loc     0x0000000000002cb2       0xac C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_loc     0x0000000000002d5e       0x73 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_loc     0x0000000000002dd1       0xc2 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+                0x0000000000020000                __alt_data_end = 0x20000
+                0x0000000000020000                PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                0x0000000000012478                PROVIDE (__alt_heap_start = end)
+                0x0000000000020000                PROVIDE (__alt_heap_limit = 0x20000)
+OUTPUT(project.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000      0x500
+ .debug_ranges  0x0000000000000000       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp/obj/HAL/src/crt0.o
+ .debug_ranges  0x0000000000000020       0x78 obj/default/hello_world_small.o
+ .debug_ranges  0x0000000000000098       0x70 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_ranges  0x0000000000000108       0x18 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-asprintf.o)
+ .debug_ranges  0x0000000000000120       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_str_mbf.o)
+ .debug_ranges  0x0000000000000130       0x18 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-malloc.o)
+ .debug_ranges  0x0000000000000148       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memmove.o)
+ .debug_ranges  0x0000000000000158       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memset.o)
+ .debug_ranges  0x0000000000000168       0x28 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-freer.o)
+ .debug_ranges  0x0000000000000190       0x48 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x00000000000001d8       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-reallocr.o)
+ .debug_ranges  0x00000000000001e8       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-sbrkr.o)
+ .debug_ranges  0x00000000000001f8       0xe8 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-svfprintf.o)
+ .debug_ranges  0x00000000000002e0       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_ranges  0x00000000000002f0       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-nano-msizer.o)
+ .debug_ranges  0x0000000000000300       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_ranges  0x0000000000000310       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_register.o)
+ .debug_ranges  0x0000000000000340       0xa0 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_load.o)
+ .debug_ranges  0x00000000000003e0       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_printf.o)
+ .debug_ranges  0x0000000000000400       0x18 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_sys_init.o)
+ .debug_ranges  0x0000000000000418       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_ranges  0x0000000000000438       0x20 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_ranges  0x0000000000000458       0x28 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x0000000000000480       0x28 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x00000000000004a8       0x30 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_exception_entry.o)
+ .debug_ranges  0x00000000000004d8       0x18 C:/intelFPGA_lite/Project/Golden_Top/software/project_bsp\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_ranges  0x00000000000004f0       0x10 c:/intelfpga_lite/20.1/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/9.2.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcmp.o)
